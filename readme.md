@@ -7,7 +7,7 @@ Zippy's Pet Website
 ## Describtion
 Zippy's pet website is a fun and interactive website showcasing Zippy, a fictional dragoncat.
 The site provides information about Zippy's favourite activities, toys, and routines.
-It's designed for pet enthusiasts and as a practice project for HTML
+It's designed for pet enthusiasts and as a practice project for HTML.
 
 ## Live Demo
 Check out the live demo here: [https://your-demo-link.com](https://your-demo-link.com)
@@ -55,5 +55,4 @@ You can manually test the website by:
 To contribute to Zippy’s Pet Website:  
 1. **Fork the repository**.  
 2. **Create a new branch**:  
-   ```bash
-   git checkout -b feature-name
+   
